@@ -6,7 +6,12 @@ You will need the following tools:
  * maven
 
 ## Unit tests of the frontend
-Run with:
+First populate the dependencies with:
+```
+yarn
+```
+
+Then run the unit tests with:
 ```
 yarn test
 ```
