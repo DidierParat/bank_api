@@ -25,9 +25,6 @@ hs_err_pid*
 .idea/
 *.iml
 
-# logs from runscript
-logs.txt
-
 # compiled objects
 target/
 

@@ -12,7 +12,7 @@ export class Customers extends Component {
     handleClick(event) {
         this.props.setData({});
         fetchAndSetData(
-            this.props.apiUrl + "/customers/12345678901",
+            this.props.apiUrl + "customers/12345678901",
             this.props.setData);
     }
 

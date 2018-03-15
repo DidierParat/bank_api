@@ -13,7 +13,7 @@ const store = createStore(reducer);
 
 function defaultState() {
     return {
-        apiUrl: "http://localhost:8080",
+        apiUrl: "http://localhost:8080/",
         customersApiData: {}
     };
 }
