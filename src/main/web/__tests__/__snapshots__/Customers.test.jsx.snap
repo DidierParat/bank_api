@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test <Customers> with wrapping in <Provider> +++ renders correctly 1`] = `
+<div>
+  <h2>
+    Customers
+  </h2>
+  <p>
+    GET request: /customers/(customerID)
+  </p>
+  <p>
+    Get customer details by ID.
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    Try !
+  </button>
+  <pre>
+    {}
+  </pre>
+</div>
+`;
